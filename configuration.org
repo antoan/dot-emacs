@@ -1,0 +1,4 @@
+#+BEGIN_SRC emacs-lisp
+ (package-initialize)
+ (setq use-package-always-ensure t)
+#+END_SRC
